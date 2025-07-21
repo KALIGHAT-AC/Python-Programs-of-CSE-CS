@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1753028221 source:d:\c programs\countevenodd\main.c
+	<stdio.h>
+	<stdlib.h>
+

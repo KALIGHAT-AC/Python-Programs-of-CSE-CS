@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1753029680 source:d:\c programs\swapcallreference\main.c
+	<stdio.h>
+	<stdlib.h>
+
