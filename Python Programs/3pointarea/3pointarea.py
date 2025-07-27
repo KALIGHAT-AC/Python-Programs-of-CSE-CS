@@ -1,0 +1,10 @@
+"""To calculate the area of a triangle formed between 3 points on a plane"""
+x1=int(input("Enter value of x1: "))
+y1=int(input("Enter value of y1: "))
+x2=int(input("Enter value of x2: "))
+y2=int(input("Enter value of y2: "))
+x3=int(input("Enter value of x3: "))
+y3=int(input("Enter value of y3: "))
+area = 0.5*(x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2))
+if area<0: area = area + (2*area)
+print("Area of the triangle is",area)
